@@ -1,4 +1,4 @@
-const API_KEY = "abcd";
+const API_KEY = "api Key";
 const url = "https://api.openweathermap.org/data/2.5";
 
 export async function getWeather(city) {
